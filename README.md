@@ -7,5 +7,5 @@
 - 🔭 I’m currently CSED student at Faculty of Engineering, Alexandria University.
 - 🌱 I’m currently learning Computer Engineering.
 - 📫 How to reach me:<br>
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/mahmoud-ghallab-89981521a)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="24">](https://www.linkedin.com/in/mahmoud-ghallab-89981521a)
 
