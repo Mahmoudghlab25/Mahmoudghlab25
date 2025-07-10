@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning more about Computer Engineering.  
 - 📫 How to reach me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="24" alt="LinkedIn">](https://www.linkedin.com/in/mahmoud-ghallab-89981521a)&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="24" alt="Gmail">](mailto:engmahmoudali280@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="24" alt="Gmail">](mailto:engmahmoudali280@gmail.com)
